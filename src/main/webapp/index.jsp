@@ -4,19 +4,19 @@
   <title>This is sample and demo application, do not use for implementing in real time projects</title>
   <style>
      body {
-       background-color: #ffffff;
+       background-color: #703bc5;
        font-family: sans-serif;
        font-size: 16px;
      }
 
      h1 {
-       color: #000000;
+       color: #b47474;
        font-size: 24px;
        font-weight: bold;
      }
 
      p {
-       color: #333333;
+       color: #25b672;
        font-size: 16px;
      }
 
