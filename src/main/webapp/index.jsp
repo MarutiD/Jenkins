@@ -33,7 +33,7 @@
 <body>
   <h1>Welcome to Maruti Web application</h1>
   <h2>Learning is always worth of making life easy, learn to earn</h2>
-  <p>Jenkins is developed using java, and jenkins is open and free s/w</p>
+  <p>Jenkins is used to buid and deploy the application through automation</p>
   <a href="https://www.ashokitech.com/auth/is_session/user/notes/index/392/devops-with-aws-online-training/">This is a link to AshokIt portal</a>
 </body>
 </html>
