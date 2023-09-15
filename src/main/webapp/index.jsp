@@ -33,7 +33,7 @@
 <body>
   <h1>Welcome to Maruti Web application, this is test server</h1>
   <h2>JEnkins, is used to build and deploy the application</h2>
-  <p>Hello, There!</p>
+  <p>Hello, There! This is jenkins practice webpage</p>
   <a href="https://www.ashokitech.com/auth/is_session/user/notes/index/392/devops-with-aws-online-training/">This is a link to AshokIt portal</a>
 </body>
 </html>
