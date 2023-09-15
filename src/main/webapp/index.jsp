@@ -31,9 +31,9 @@
   </style>
 </head>
 <body>
-  <h1>Welcome to Maruti Web application</h1>
-  <h2>Learning is always worth of making life easy, learn to earn</h2>
-  <p>Jenkins is used to buid and deploy the application through automation</p>
+  <h1>Welcome to Maruti Web application, this is test server</h1>
+  <h2>JEnkins, is used to build and deploy the application</h2>
+  <p>Hello, There!</p>
   <a href="https://www.ashokitech.com/auth/is_session/user/notes/index/392/devops-with-aws-online-training/">This is a link to AshokIt portal</a>
 </body>
 </html>
