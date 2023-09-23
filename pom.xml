@@ -13,7 +13,26 @@
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
+<distributionManagement>  
+
+	<repository>
+		<id>nexus</id>
+		<name> maruti-release-repo Nexus Repo</name>
+		<url>http://43.205.253.164:8081/repository/maruti-release-repo/</url>
+	</repository>
+	
+	<snapshotRepository>
+		<id>nexus</id>
+		<name>maruti-snapshot-repo Nexus Repo</name>
+		<url>http://43.205.253.164:8081/repository/maruti-snapshot-repo/</url>
+	</snapshotRepository>
+	
+  </distributionManagement>
+
   <properties>
+  <sonar.host.url>http://http://52.66.186.179:9000/</sonar.host.url>
+	<sonar.login>admin</sonar.login>
+	<sonar.password>admin</sonar.password>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.7</maven.compiler.source>
     <maven.compiler.target>1.7</maven.compiler.target>
